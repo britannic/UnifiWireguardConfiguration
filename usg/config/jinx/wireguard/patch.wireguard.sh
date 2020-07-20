@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# this file patches wiregaurds node.def file for deleting
+# this file patches wireguard's node.def file for deleting
 # the complete wireguard configuration in vyatta without error.
 # which is needed for flawless provisioning
 #
